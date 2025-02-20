@@ -8,9 +8,9 @@
   <img src="https://profile-counter.glitch.me/{MukundC25}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
-I'm Mukund Chavan, I am Second Year B tech student  in Electronics and Telecommunications  at MIT Academy of Engineering, Pune. 
-Throughout my academic career, I have worked on various technologies such as Full stack development, AI, machine learning, data science. To gain practical experience, I have worked on multiple projects, where I worked on a finance management platform backed by AI for analyzing spending patterns and suggest financial strategies. 
-Also, I actively participate in hackathons, which have helped me improve my teamwork and my problem solving skills. I solve problems oncoding platforms like codechef & leetcode 
+I'm Mukund Chavan, a second-year B.Tech student in Electronics and Telecommunications at MIT Academy of Engineering, Pune. 
+Throughout my academic career, I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on a finance management platform backed by AI to analyze spending patterns and suggest financial strategies. 
+Also, I actively participate in hackathons, which have helped me improve my teamwork and my problem-solving skills. I solve problems on coding platforms like CodeChef & Leetcode 
 
 
 ## 🎓 Education
