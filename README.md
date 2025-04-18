@@ -39,18 +39,18 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ### CoinArth: AI-Powered Finance Management Platform
 - [GitHub](https://github.com/MukundC25/CoinArth)
 - Tech Stack: React.js, Vite, Chart.js, React Router, Docker
-● Designed and deployed a full-stack finance management platform using scalable architecture.
-● Integrating a Python-based AI engine using Flask/FastAPI to recommend personalized financial tips.
-● Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
-● Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
+- Designed and deployed a full-stack finance management platform using scalable architecture.
+- Integrating a Python-based AI engine using Flask/FastAPI to recommend personalized financial tips.
+- Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
+- Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
 ### V-Track: Vehicle Tracking & Security System 
 - [GitHub](https://github.com/MukundC25/V-Track)
 - Tech Stack: React.js, Vite, Tailwind CSS, Socket.io, Node.js, Docker, Google Maps API
-● Built a GPS-powered tracking platform using IoT + cloud stack.
-● Created a mobile-friendly dashboard with real-time location updates and geofencing alerts.
-● Integrating hardware with Firebase for low-latency communication via WebSockets.
-● Using SMTP and real-time database sync for theft alerts and emergency communication.
+- Built a GPS-powered tracking platform using IoT + cloud stack.
+- Created a mobile-friendly dashboard with real-time location updates and geofencing alerts.
+- Integrating hardware with Firebase for low-latency communication via WebSockets.
+- Using SMTP and real-time database sync for theft alerts and emergency communication.
 
 
 ## 📊 Competitive Programming
