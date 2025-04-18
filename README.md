@@ -38,18 +38,27 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### CoinArth: AI-Powered Finance Management Platform
 - [GitHub](https://github.com/MukundC25/CoinArth)
-- Tech Stack: React.js, Tailwind CSS, Chart.js, Node.js, Express.js, MongoDB, Firebase, Flask, FastAPI, Scikit-Learn, AWS
-- Designed an interactive and responsive UI using React.js and Tailwind CSS for seamless user experience.
-- Built an AI recommendation system using Python (Flask/FastAPI) and Scikit-Learn to analyze spending patterns and suggest financial strategies.
-- Developed backend services with Node.js and Express.js, storing and managing financial data in MongoDB.
+- Tech Stack: React.js, Vite, Chart.js, React Router, Docker
+● Designed and deployed a full-stack finance management platform using scalable architecture.
+● Integrating a Python-based AI engine using Flask/FastAPI to recommend personalized financial tips.
+● Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
+● Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
 ### V-Track: Vehicle Tracking & Security System 
 - [GitHub](https://github.com/MukundC25/V-Track)
-- Tech Stack: React.js, Next.js, Tailwind CSS, Node.js, Firebase, MongoDB, Mapbox API, GenAI
-- Developed a web-based vehicle tracking system that provides real-time location updates, theft alerts, and geofencing using IoT and cloud-based technologies.
-- Designed the frontend with React.js and Tailwind CSS for a seamless user experience.
-- Integrated ESP32 with Firebase to transmit GPS data, allowing users to monitor speed, last known location, and driving behavior on an intuitive dashboard.
-- Implemented SMTP/ WebSockets  for low-latency data communication, enabling real-time updates on location, unauthorized movement, and emergency alerts.
+- Tech Stack: React.js, Vite, Tailwind CSS, Socket.io, Node.js, Docker, Google Maps API
+● Built a GPS-powered tracking platform using IoT + cloud stack.
+● Created a mobile-friendly dashboard with real-time location updates and geofencing alerts.
+● Integrating hardware with Firebase for low-latency communication via WebSockets.
+● Using SMTP and real-time database sync for theft alerts and emergency communication.
+
+
+## 📊 Competitive Programming
+
+- **Competitive Programming:** CodeChef & LeetCode
+- **Solved:** 100+ programming problems
+- **CP Ratings:** Rated 1096 on CodeChef 
+- **Achievements:** Ranked 5716 among 25000+ contestants in CodeChef’s latest weekly contest.
 
 
 ## 🛠 Technical Skills
