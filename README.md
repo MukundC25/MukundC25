@@ -37,7 +37,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## 🚀 Projects
 
 ### CoinArth: AI-Powered Finance Management Platform
-- [GitHub](https://github.com/MukundC25/CoinArth)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/CoinArth)
 - Tech Stack: React.js, Vite, Chart.js, React Router, Docker
 - Designed and deployed a full-stack finance management platform using scalable architecture.
 - Integrating a Python-based AI engine using Flask/FastAPI to recommend personalized financial tips.
@@ -45,7 +45,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
 ### V-Track: Vehicle Tracking & Security System 
-- [GitHub](https://github.com/MukundC25/V-Track)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/V-Track)
 - Tech Stack: React.js, Vite, Tailwind CSS, Socket.io, Node.js, Docker, Google Maps API
 - Built a GPS-powered tracking platform using IoT + cloud stack.
 - Created a mobile-friendly dashboard with real-time location updates and geofencing alerts.
@@ -83,6 +83,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![CNN](https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat&logo=opencv&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-%23007ACC.svg?style=flat&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%231572B6.svg?style=flat&logo=deepai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
 
 ### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
