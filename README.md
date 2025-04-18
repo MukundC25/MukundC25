@@ -36,6 +36,14 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ## 🚀 Projects
 
+### MAANGlytics: AI-Powered Tech Market Analysis
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
+- Tech Stack: React.js, Vite, Recharts, Flask, Docker, Tailwind CSS, yfinance, HuggingFace Transformers
+- Built real-time MAANG analytics dashboard with containerized microservices architecture
+- Integrated AI-based stock prediction and sentiment analysis via Flask and ML models
+- Developed responsive data visualizations using Recharts (stock trends, growth, sentiment)
+- Containerized app with Docker & Docker Compose for seamless deployment
+  
 ### CoinArth: AI-Powered Finance Management Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/CoinArth)
 - Tech Stack: React.js, Vite, Chart.js, React Router, Docker
