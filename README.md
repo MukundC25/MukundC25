@@ -9,7 +9,7 @@
 </p>
 
 I'm Mukund Chavan, a second-year B.Tech student in Electronics and Telecommunications at MIT Academy of Engineering, Pune. 
-Throughout my academic career, I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on a finance management platform backed by AI to analyze spending patterns and suggest financial strategies. 
+Throughout my academic career, I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack to analyze spending patterns, suggest, and predict financial and portfolio growth strategies. 
 Also, I actively participate in hackathons, which have helped me improve my teamwork and my problem-solving skills. I solve problems on coding platforms like CodeChef & Leetcode 
 
 
@@ -39,7 +39,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ### MAANGlytics: AI-Powered Tech Market Analysis
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
 - Tech Stack: React.js, Vite, Recharts, Flask, Docker, Tailwind CSS, yfinance, HuggingFace Transformers
-- Built real-time MAANG analytics dashboard with containerized microservices architecture
+- Built a real-time MAANG analytics dashboard with a containerized microservices architecture
 - Integrated AI-based stock prediction and sentiment analysis via Flask and ML models
 - Developed responsive data visualizations using Recharts (stock trends, growth, sentiment)
 - Containerized app with Docker & Docker Compose for seamless deployment
