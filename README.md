@@ -38,7 +38,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### MAANGlytics: AI-Powered Tech Market Analysis
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
-- Tech Stack: React.js, Vite, Recharts, Flask, Docker, Tailwind CSS, yfinance, HuggingFace Transformers
+- Tech Stack: React.js, Vite, Recharts, Flask, Docker, Tailwind CSS, HuggingFace Transformers
 - Built a real-time MAANG analytics dashboard with a containerized microservices architecture
 - Integrated AI-based stock prediction and sentiment analysis via Flask and ML models
 - Developed responsive data visualizations using Recharts (stock trends, growth, sentiment)
@@ -54,7 +54,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### V-Track: Vehicle Tracking & Security System 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/vtrack)
-- Tech Stack: React.js, Vite, Tailwind CSS, Socket.io, Node.js, Docker, Google Maps API
+- Tech Stack: React.js, Vite, React Router, Flask, Tailwind CSS, Google Maps API, Socket.io, Docker
 - Built a GPS-powered tracking platform using IoT + cloud stack.
 - Created a mobile-friendly dashboard with real-time location updates and geofencing alerts.
 - Integrating hardware with Firebase for low-latency communication via WebSockets.
@@ -64,9 +64,9 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## 📊 Competitive Programming
 
 - **Competitive Programming:** CodeChef & LeetCode
-- **Solved:** 200+ programming problems.
+- **Solved:** 250+ programming problems.
 - **CP Ratings:** Rated 1503 on LeetCode. Top 10 in Gold League on CodeChef.
-- **Achievements:** Ranked 4146 among 30000+ contestants in CodeChef’s latest weekly contest.
+- **Achievements:** Ranked 4146 among 30000+ participants in CodeChef’s latest weekly contest.
 
 
 ## 🛠 Technical Skills
