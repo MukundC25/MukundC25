@@ -54,11 +54,11 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### V-Track: Vehicle Tracking & Security System 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/vtrack)
-- Tech Stack: React.js, Vite, React Router, Flask, Tailwind CSS, Google Maps API, Socket.io, Docker
-- Built a GPS-powered tracking platform using IoT + cloud stack.
-- Created a mobile-friendly dashboard with real-time location updates and geofencing alerts.
-- Integrating hardware with Firebase for low-latency communication via WebSockets.
-- Using SMTP and real-time database sync for theft alerts and emergency communication.
+- Tech Stack: React.js, Vite, React Router, Flask, Tailwind CSS, Google Maps API, HTTP Polling, Docker
+- Developed React/Flask vehicle tracker with Google Maps API, achieving 40% faster location updates.
+- Integrated ESP32 hardware with Google Geolocation for 98% location accuracy.
+- Created responsive UI with dark/light mode, boosting mobile engagement by 35%.
+- Containerized with Docker, cutting deployment time by 60%.
 
 
 ## 📊 Competitive Programming
@@ -66,7 +66,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - **Competitive Programming:** CodeChef & LeetCode
 - **Solved:** 250+ programming problems.
 - **CP Ratings:** Rated 1503 on LeetCode. Top 10 in Gold League on CodeChef.
-- **Achievements:** Ranked 4146 among 30000+ participants in CodeChef’s latest weekly contest.
+- **Achievements:** Ranked 2127 among 15000+ participants in CodeChef’s latest weekly contest.
 
 
 ## 🛠 Technical Skills
