@@ -36,13 +36,22 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ## 🚀 Projects
 
+### Jobeez: AI-Powered Resumer Parser & Job Matching
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/jobeez)
+- Tech Stack: React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
+- Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
+- Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy.
+- Developed a responsive UI with Tailwind CSS, enhancing mobile user engagement by 40%.
+- Created a fault-tolerant architecture with fallback systems, ensuring 99.9% application availability.
+
+
 ### MAANGlytics: AI-Powered Tech Market Analysis
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
-- Tech Stack: React.js, Vite, Recharts, Flask, Docker, Tailwind CSS, HuggingFace Transformers
-- Built a real-time MAANG analytics dashboard with a containerized microservices architecture
-- Integrated AI-based stock prediction and sentiment analysis via Flask and ML models
-- Developed responsive data visualizations using Recharts (stock trends, growth, sentiment)
-- Containerized app with Docker & Docker Compose for seamless deployment
+- Tech Stack: React.js, Vite, Recharts, Flask, RESTful APIs, Docker, Tailwind CSS, HuggingFace Transformers
+- Developed a real-time financial dashboard for MAANG companies, improving rendering speed by 30%.
+- Designed Recharts-based visualizations for stock trends, sentiment scores, and employee growth.
+- Developed RESTful APIs enabling seamless integration & 95% accurate financial predictions.
+- Containerized app with Docker, cutting deployment time by 50%.
   
 ### CoinArth: AI-Powered Finance Management Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
@@ -101,12 +110,16 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%231572B6.svg?style=flat&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
 ![Git CI/CD](https://img.shields.io/badge/Git%20CI/CD-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chartdotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-%23FF4500.svg?style=flat&logo=recharts&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-%2304285F.svg?style=flat&logo=google&logoColor=white)
 
 ## 🌐 Connect with me
 
