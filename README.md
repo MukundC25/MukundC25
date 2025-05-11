@@ -103,13 +103,6 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?style=flat&logo=python&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%231572B6.svg?style=flat&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-
 ### Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
@@ -120,6 +113,14 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chartdotjs&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-%23FF4500.svg?style=flat&logo=recharts&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-%2304285F.svg?style=flat&logo=google&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?style=flat&logo=python&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%231572B6.svg?style=flat&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+
 
 ## 🌐 Connect with me
 
