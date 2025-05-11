@@ -53,7 +53,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - Developed RESTful APIs enabling seamless integration & 95% accurate financial predictions.
 - Containerized app with Docker, cutting deployment time by 50%.
   
-### CoinArth: AI-Powered Finance Management Platform
+### CoinArth: Finance Management Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
 - Tech Stack: React.js, Vite, Chart.js, React Router, Docker
 - Designed and deployed a full-stack finance management platform using scalable architecture.
