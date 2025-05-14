@@ -57,7 +57,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
 - Tech Stack: React.js, Vite, Chart.js, React Router, Docker
 - Designed and deployed a full-stack finance management platform using scalable architecture.
-- Integrating a Python-based AI engine using Flask/FastAPI to recommend personalized financial tips.
+- Integrating a Python-based AI engine using Flask to recommend personalized financial tips.
 - Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
 - Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
