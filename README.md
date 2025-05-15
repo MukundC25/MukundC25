@@ -38,7 +38,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### Jobeez: AI-Powered Resumer Parser & Job Matching
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/jobeez)
-- Tech Stack: React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
+
+**Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
 - Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
 - Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy.
 - Developed a responsive UI with Tailwind CSS, enhancing mobile user engagement by 40%.
@@ -47,7 +48,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### MAANGlytics: AI-Powered Tech Market Analysis
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
-- Tech Stack: React.js, Vite, Recharts, Flask, RESTful APIs, Docker, Tailwind CSS, HuggingFace Transformers
+
+**Tech Stack:** React.js, Vite, Recharts, Flask, RESTful APIs, Docker, Tailwind CSS, HuggingFace Transformers
 - Developed a real-time financial dashboard for MAANG companies, improving rendering speed by 30%.
 - Designed Recharts-based visualizations for stock trends, sentiment scores, and employee growth.
 - Developed RESTful APIs enabling seamless integration & 95% accurate financial predictions.
@@ -55,7 +57,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
   
 ### CoinArth: Finance Management Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
-- Tech Stack: React.js, Vite, Chart.js, React Router, Docker
+
+**Tech Stack:** React.js, Vite, Chart.js, React Router, Docker
 - Designed and deployed a full-stack finance management platform using scalable architecture.
 - Integrating a Python-based AI engine using Flask to recommend personalized financial tips.
 - Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
@@ -63,7 +66,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### V-Track: Vehicle Tracking & Security System 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/vtrack)
-- Tech Stack: React.js, Vite, React Router, Flask, Tailwind CSS, Google Maps API, HTTP Polling, Docker
+
+**Tech Stack:** React.js, Vite, React Router, Flask, Tailwind CSS, Google Maps API, HTTP Polling, Docker
 - Developed React/Flask vehicle tracker with Google Maps API, achieving 40% faster location updates.
 - Integrated ESP32 hardware with Google Geolocation for 98% location accuracy.
 - Created responsive UI with dark/light mode, boosting mobile engagement by 35%.
