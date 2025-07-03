@@ -8,9 +8,9 @@
   <img src="https://profile-counter.glitch.me/{MukundC25}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
-I'm Mukund Chavan, a second-year B.Tech student in Electronics and Telecommunications at MIT Academy of Engineering, Pune. 
-Throughout my academic career, I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack to analyze spending patterns, suggest, and predict financial and portfolio growth strategies. 
-Also, I actively participate in hackathons, which have helped me improve my teamwork and my problem-solving skills. I solve problems on coding platforms like CodeChef & Leetcode 
+I'm Mukund Chavan, a Pre-Final Year B.Tech Student in Electronics and Telecommunications at MIT Academy of Engineering, Pune. 
+Throughout my academic career, I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack. 
+Also, I actively participate in hackathons, which have helped me improve my teamwork and problem-solving skills. I solve problems on coding platforms like CodeChef & LeetCode.
 
 
 ## 🎓 Education
@@ -85,7 +85,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 - **Competitive Programming:** CodeChef & LeetCode
 - **Solved:** 550+ programming problems.
-- **CP Ratings:** Rated 1609 on LeetCode. Top 10 in Diamond League on CodeChef.
+- **CP Ratings:** Rated 1609 on LeetCode. Rated 1389 on CodeChef & Top 10 in Diamond League.
 - **Achievements:** Ranked 1950 among 27000+ participants in LeetCode’s contest.
 
 
