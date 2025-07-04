@@ -85,7 +85,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 - **Competitive Programming:** CodeChef & LeetCode
 - **Solved:** 550+ programming problems.
-- **CP Ratings:** Rated 1609 on LeetCode. Rated 1389 on CodeChef & Top 10 in Diamond League.
+- **CP Ratings:** Rated 1609 on LeetCode. Rated 1389 on CodeChef & Top 10 in Gold League.
 - **Achievements:** Ranked 1950 among 27000+ participants in LeetCode’s contest.
 
 
