@@ -43,6 +43,14 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ## 🚀 Projects
 
+### Conversational AI: Memory-Aware Document Q&A
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/conversation-ai-chatbot)
+
+**Tech Stack:** React.js, Vite, FastAPI, LangChain, FAISS, Gemini API, Docker, Tailwind CSS, Python, RAG Architecture
+- Engineered a RAG-based chatbot with FAISS for real-time document search and context-aware multi-mode Q&A.
+- Integrated LangChain memory and achieved 100% API test coverage for robust, persistent conversations.
+
+
 ### Jobeez: AI-Powered Resumer Parser & Job Matching
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/jobeez)
 
@@ -60,16 +68,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - Developed a real-time financial dashboard for MAANG companies, improving rendering speed by 30%.
 - Designed Recharts-based visualizations for stock trends, sentiment scores, and employee growth.
 - Developed RESTful APIs enabling seamless integration & 95% accurate financial predictions.
-- Containerized app with Docker, cutting deployment time by 50%.
-  
-### CoinArth: Finance Management Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
+- Containerized app with Docker, cutting deployment time by 50%.  
 
-**Tech Stack:** React.js, Vite, Chart.js, React Router, Docker
-- Designed and deployed a full-stack finance management platform using scalable architecture.
-- Integrating a Python-based AI engine using Flask to recommend personalized financial tips.
-- Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
-- Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
 ### V-Track: Vehicle Tracking & Security System 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/vtrack)
@@ -79,6 +79,16 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - Integrated ESP32 hardware with Google Geolocation for 98% location accuracy.
 - Created responsive UI with dark/light mode, boosting mobile engagement by 35%.
 - Containerized with Docker, cutting deployment time by 60%.
+
+  
+### CoinArth: Finance Management Platform
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
+
+**Tech Stack:** React.js, Vite, Chart.js, React Router, Docker
+- Designed and deployed a full-stack finance management platform using scalable architecture.
+- Integrating a Python-based AI engine using Flask to recommend personalized financial tips.
+- Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
+- Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
 
 ## 📊 Competitive Programming
