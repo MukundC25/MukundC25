@@ -137,3 +137,5 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukundchavan2)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:officialmukundchavan@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/mukundc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/mukund2503)
