@@ -123,6 +123,9 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![LLMs](https://img.shields.io/badge/LLMs-%23007ACC.svg?style=flat&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%231572B6.svg?style=flat&logo=deepai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23FF6F00.svg?style=flat&logo=data&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
 
 ### Cloud & Tools
