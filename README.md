@@ -26,7 +26,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## 💼 Experience
 
 ### SortUs
-**AI Research Intern** | June 2025–Ongoing | Pune, Maharashtra
+**AI Research Intern** | June 2025–Aug 2025 | Pune, Maharashtra
 - Engineered ML-driven Green Points engine using FastAPI and Random Forest for real-time reward estimation.
 - Automated e-waste pricing via multi-feature regression (type, brand, age, weight, condition).
 - Integrated AI microservice into Node.js/MongoDB stack with JWT-secured wallet transactions.
