@@ -27,8 +27,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### SortUs
 **AI Research Intern** | June 2025–Aug 2025 | Pune, Maharashtra
-- Engineered ML-driven Green Points engine using FastAPI and Random Forest for real-time reward estimation.
-- Automated e-waste pricing via multi-feature regression (type, brand, age, weight, condition).
+- Built ML-driven Green Points engine using FastAPI and Random Forest for real-time reward estimation.
+- Automated e-waste pricing via multi-feature regression and achieved accuracy of R² ≈ 0.85+, i.e, about 85%+.
 - Integrated AI microservice into Node.js/MongoDB stack with JWT-secured wallet transactions.
 
 
@@ -47,7 +47,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/conversation-ai-chatbot)
 
 **Tech Stack:** React.js, Vite, FastAPI, LangChain, FAISS, Gemini API, Docker, Tailwind CSS, Python, RAG Architecture
-- Engineered a RAG-based chatbot with FAISS for real-time document search and context-aware multi-mode Q&A.
+- Developed a RAG-based chatbot with FAISS for real-time document search and context-aware multi-mode Q&A.
 - Integrated LangChain memory and achieved 100% API test coverage for robust, persistent conversations.
 
 
@@ -55,7 +55,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/jobeez)
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
-- Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
+- Built a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
 - Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy.
 - Developed a responsive UI with Tailwind CSS, enhancing mobile user engagement by 40%.
 - Created a fault-tolerant architecture with fallback systems, ensuring 99.9% application availability.
@@ -93,9 +93,9 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ## 📊 Competitive Programming
 
-- **Competitive Programming:** CodeChef & LeetCode
-- **Solved:** 600+ programming problems.
-- **CP Ratings:** Rated 1609 on LeetCode. Rated 1528 on CodeChef.
+- **Competitive Programming:** CodeChef, LeetCode & Codeforces.
+- **Solved:** 700+ programming problems.
+- **CP Ratings:** Rated 1609 on LeetCode. Rated 1605 on CodeChef with 3 Stars. Rated 1202 (Pupil) on Codeforces.
 - **Rankings:** Ranked in the Top 20 in CodeChef's Contest START196 & Top 10 in Diamond League.
 
 
