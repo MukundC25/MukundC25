@@ -26,7 +26,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## 💼 Experience
 
 ### SortUs
-**AI Research Intern** | June 2025–Aug 2025 | Pune, Maharashtra
+**Software Engineering Intern (AI/ML)** | June 2025–Aug 2025 | Pune, Maharashtra
 - Built ML-driven Green Points engine using FastAPI and Random Forest for real-time reward estimation.
 - Automated e-waste pricing via multi-feature regression and achieved accuracy of R² ≈ 0.85+, i.e, about 85%+.
 - Integrated AI microservice into Node.js/MongoDB stack with JWT-secured wallet transactions.
@@ -95,7 +95,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 - **Competitive Programming:** CodeChef, LeetCode & Codeforces.
 - **Solved:** 700+ programming problems.
-- **CP Ratings:** 1609 - LeetCode - Top 15% | 1605 - CodeChef (3★) | 1202 (Pupil) - Codeforces.
+- **CP Ratings:** 1668 - LeetCode - Top 15% | 1605 - CodeChef (3★) | 1202 (Pupil) - Codeforces.
 - **Rankings:** 🏆 Top 20 in CodeChef's Contest START196 & Top 10 in Diamond League.
 
 
