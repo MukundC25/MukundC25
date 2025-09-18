@@ -43,6 +43,22 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ## 🚀 Projects
 
+### Apta: Smart Lifestyle & Learning Recommender
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/lrs)
+
+**Tech Stack:** Next.js, FastAPI, scikit-learn, TF-IDF, Zustand, Tailwind CSS, Python, Content-Based Filtering
+- Built TF-IDF vectorization + cosine similarity, achieving 85% recommendation accuracy across 150+ lifestyle items.
+- Implemented time/interest-based filtering, reducing irrelevant suggestions by 70% through scoring algorithms.
+  
+
+### Green Points: AI-Powered (Points + Price) Prediction
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/green-points)
+
+**Tech Stack:** React.js, Vite, Random Forest, FastAPI/Flask, MongoDB, Node.js, JWT, scikit-learn, Axios, RESTful APIs
+- Developed a Random Forest ML model for real-time, market-based valuation, achieving 85% accuracy in prediction.
+- Implemented REST APIs with JWT authentication and MongoDB integration for data integrity & user security
+
+
 ### Conversational AI: Memory-Aware Document Q&A
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/conversation-ai-chatbot)
 
@@ -51,25 +67,15 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - Integrated LangChain memory and achieved 100% API test coverage for robust, persistent conversations.
 
 
-### Jobeez: AI-Powered Resumer Parser & Job Matching
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/jobeez)
-
-**Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
-- Built a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
-- Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy.
-- Developed a responsive UI with Tailwind CSS, enhancing mobile user engagement by 40%.
-- Created a fault-tolerant architecture with fallback systems, ensuring 99.9% application availability.
-
-
-### MAANGlytics: AI-Powered Tech Market Analysis
+### Jobeez: AI-Powered Resume Parser & Job Matching
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
 
-**Tech Stack:** React.js, Vite, Recharts, Flask, RESTful APIs, Docker, Tailwind CSS, HuggingFace Transformers
-- Developed a real-time financial dashboard for MAANG companies, improving rendering speed by 30%.
-- Designed Recharts-based visualizations for stock trends, sentiment scores, and employee growth.
-- Developed RESTful APIs enabling seamless integration & 95% accurate financial predictions.
-- Containerized app with Docker, cutting deployment time by 50%.  
+**Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
+- Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
+- Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy
 
+
+## 🚀 Minor Projects
 
 ### V-Track: Vehicle Tracking & Security System 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/vtrack)
@@ -77,18 +83,25 @@ Also, I actively participate in hackathons, which have helped me improve my team
 **Tech Stack:** React.js, Vite, React Router, Flask, Tailwind CSS, Google Maps API, HTTP Polling, Docker
 - Developed React/Flask vehicle tracker with Google Maps API, achieving 40% faster location updates.
 - Integrated ESP32 hardware with Google Geolocation for 98% location accuracy.
-- Created responsive UI with dark/light mode, boosting mobile engagement by 35%.
-- Containerized with Docker, cutting deployment time by 60%.
+
+
+### algoV: Algorithm Visualizer
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/algoV)
+
+- A full-stack AI system with a JavaScript frontend & Python backend to deliver real-time algorithmic processing.
+
+
+
+### MAANGlytics: MAANG Analytics Hub
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
+
+- AI-powered tech market trends & sentiment analysis using HuggingFace, improving rendering by 30%.
 
   
 ### CoinArth: Finance Management Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f)
 
-**Tech Stack:** React.js, Vite, Chart.js, React Router, Docker
 - Designed and deployed a full-stack finance management platform using scalable architecture.
-- Integrating a Python-based AI engine using Flask to recommend personalized financial tips.
-- Implementing secure backend APIs with Express.js and MongoDB for real-time user tracking.
-- Deploying on Vercel and testing using Docker + CI/CD pipeline for production readiness.
 
 
 ## 📊 Competitive Programming
