@@ -38,7 +38,6 @@ Also, I actively participate in hackathons, which have helped me improve my team
 - Learned to build and train deep neural networks using TensorFlow.
 - Implemented CNNs for image recognition and classification tasks.
 - Learned transfer learning and fine-tuning for custom datasets to address specific object detection problems.
-- Used data preparation and augmentation techniques to improve object detection accuracy.
 
 
 ## 🚀 Projects
