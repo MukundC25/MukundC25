@@ -175,9 +175,9 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 | 🏆 Platform | 📈 Rating | 🎯 Problems Solved | 🌟 Achievements |
 |-------------|-----------|-------------------|-----------------|
-| **LeetCode** | 1668 (Top 15%) | 700+ | Active Problem Solver |
-| **CodeChef** | 1682 (3★) | Contributing to 700+ | 🥈 Top 20 in START196 |
-| **Codeforces** | 1202 (Pupil) | Contributing to 700+ | 💎 Top 10 in Diamond League |
+| **LeetCode** | 1668 (Top 15%) | 200+ | Active Problem Solver |
+| **CodeChef** | 1682 (3★) | 500+ | 🥈 Top 20 in START196 |
+| **Codeforces** | 1202 (Pupil) | Contributing to 700+ |  
 
 </div>
 
