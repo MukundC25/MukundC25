@@ -58,7 +58,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## 💼 Experience
 
 <details open>
-<summary><b>🔧 SortUs</b> - Software Engineering Intern (AI/ML)</summary>
+<summary><b>SortUs</b> - Software Engineering Intern (AI/ML)</summary>
 <br>
   
 📍 **Pune, Maharashtra** | 📅 **June 2025 – Aug 2025**
@@ -70,7 +70,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 </details>
 
 <details>
-<summary><b>🤖 EduSkills</b> - AI ML Intern</summary>
+<summary><b>EduSkills</b> - AI ML Intern</summary>
 <br>
   
 📍 **Pune, Maharashtra** | 📅 **July 2024 – Sept 2024**
