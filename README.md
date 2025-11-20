@@ -39,14 +39,14 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ### MIT Academy of Engineering, Pune
 **Savitribai Phule Pune University**
-- 📚 Bachelor of Technology in Electronics and Telecommunications
+- Bachelor of Technology in Electronics and Telecommunications
 - 📅 2023–2027
 
 </td>
 <td width="50%">
 
 ### Indian Institute of Technology, Ropar
-- 🤖 Minor In Artificial Intelligence
+- Minor In Artificial Intelligence
 - 📅 2024–2025
 
 </td>
@@ -102,8 +102,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 **Tech Stack:** Next.js, FastAPI, scikit-learn, TF-IDF, Zustand, Tailwind CSS, Python, Content-Based Filtering
 
-- ✨ Built TF-IDF vectorization + cosine similarity, achieving 85% recommendation accuracy across 150+ lifestyle items.
-- 🎯 Implemented time/interest-based filtering, reducing irrelevant suggestions by 70% through scoring algorithms.
+- Built TF-IDF vectorization + cosine similarity, achieving 85% recommendation accuracy across 150+ lifestyle items.
+- Implemented time/interest-based filtering, reducing irrelevant suggestions by 70% through scoring algorithms.
 
 </td>
 <td width="50%">
@@ -113,8 +113,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 **Tech Stack:** React.js, Vite, Random Forest, FastAPI/Flask, MongoDB, Node.js, JWT, scikit-learn, Axios, RESTful APIs
 
-- 🤖 Developed a Random Forest ML model for real-time, market-based valuation, achieving 85% accuracy in prediction.
-- 🔒 Implemented REST APIs with JWT authentication and MongoDB integration for data integrity & user security
+- Developed a Random Forest ML model for real-time, market-based valuation, achieving 85% accuracy in prediction.
+- Implemented REST APIs with JWT authentication and MongoDB integration for data integrity & user security
 
 </td>
 </tr>
@@ -126,8 +126,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 **Tech Stack:** React.js, Vite, FastAPI, LangChain, FAISS, Gemini API, Docker, Tailwind CSS, Python, RAG Architecture
 
-- 🧠 Developed a RAG-based chatbot with FAISS for real-time document search and context-aware multi-mode Q&A.
-- 💯 Integrated LangChain memory and achieved 100% API test coverage for robust, persistent conversations.
+- Developed a RAG-based chatbot with FAISS for real-time document search and context-aware multi-mode Q&A.
+- Integrated LangChain memory and achieved 100% API test coverage for robust, persistent conversations.
 
 </td>
 <td width="50%">
@@ -137,8 +137,8 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
 
-- 🚀 Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
-- 🎯 Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy
+- Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
+- Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy
 
 </td>
 </tr>
