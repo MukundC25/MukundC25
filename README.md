@@ -46,7 +46,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <td width="50%">
 
 ### Indian Institute of Technology, Ropar
-- Minor In Artificial Intelligence
+- Major In Artificial Intelligence
 - 📅 2024–2025
 
 </td>
