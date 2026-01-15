@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Mukund Chavan, a Pre-Final Year B.Tech Student in Electronics and Telecommunications at MIT Academy of Engineering, Pune. Throughout my academic career, I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack.
+I'm Mukund Chavan, a Pre-Final Year B.Tech Student. I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack.
 
 Also, I actively participate in hackathons, which have helped me improve my teamwork and problem-solving skills. I solve problems on coding platforms like CodeChef, LeetCode & Codeforces.
 
@@ -22,7 +22,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 **Quick Facts:**
 - 📍 **Location:** Pune, India
-- 🎓 **Education:** B.Tech ECE @ MIT Academy of Engineering
+- 🎓 **Education:** B.Tech ECE @ MIT Academy of Engineering, Major AI @ IIT Ropar
 - 🎯 **Current Focus:** AI/ML & Full-Stack Development
 - 💡 **Interests:** Machine Learning • Web Development • Competitive Programming
 - ⚡ **Fun Fact:** 700+ problems solved across coding platforms! 🚀
