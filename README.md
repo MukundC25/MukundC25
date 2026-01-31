@@ -144,11 +144,6 @@ Also, I actively participate in hackathons, which have helped me improve my team
 </tr>
 </table>
 
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 💡 More Projects
@@ -285,5 +280,3 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 **Thanks for visiting! Feel free to reach out for collaborations or just a chat about tech! 🚀**
-
-</div>
