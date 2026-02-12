@@ -245,7 +245,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MukundC25&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MukundC25&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
