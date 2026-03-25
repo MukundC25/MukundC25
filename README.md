@@ -21,17 +21,17 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <div align="center">
 
 **Quick Facts:**
-- 📍 **Location:** Pune, India
-- 🎓 **Education:** B.Tech ECE @ MIT Academy of Engineering, Major AI @ IIT Ropar
-- 🎯 **Current Focus:** AI/ML & Full-Stack Development
-- 💡 **Interests:** Machine Learning • Web Development • Competitive Programming
-- ⚡ **Fun Fact:** 700+ problems solved across coding platforms! 🚀
+- **Location:** Pune, India
+- **Education:** B.Tech ECE @ MIT Academy of Engineering, Major AI @ IIT Ropar
+- **Current Focus:** AI/ML & Full-Stack Development
+- **Interests:** Machine Learning • Web Development • Competitive Programming
+- **Fun Fact:** 700+ problems solved across coding platforms!
 
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
 <table>
 <tr>
@@ -40,14 +40,14 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ### MIT Academy of Engineering, Pune
 **Savitribai Phule Pune University**
 - Bachelor of Technology in Electronics and Telecommunications
-- 📅 2023–2027
+- 2023–2027
 
 </td>
 <td width="50%">
 
 ### Indian Institute of Technology, Ropar
 - Major In Artificial Intelligence
-- 📅 2024–2025
+- 2024–2025
 
 </td>
 </tr>
@@ -55,13 +55,13 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## 💼 Experience
+## Experience
 
 <details open>
 <summary><b>SortUs</b> - Software Engineering Intern (AI/ML)</summary>
 <br>
   
-📍 **Pune, Maharashtra** | 📅 **June 2025 – Aug 2025**
+**Pune, Maharashtra** | **June 2025 – Aug 2025**
 
 - Built ML-driven Green Points engine using FastAPI and Random Forest for real-time reward estimation.
 - Automated e-waste pricing via multi-feature regression and achieved accuracy of R² ≈ 0.85+, i.e, about 85%+.
@@ -73,7 +73,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <summary><b>EduSkills</b> - AI ML Intern</summary>
 <br>
   
-📍 **Pune, Maharashtra** | 📅 **July 2024 – Sept 2024**
+**Pune, Maharashtra** | **July 2024 – Sept 2024**
 
 - Completed 10-weeks AI-ML Virtual Internship by EduSkills, supported by Google For Developers.
 - Learned to build and train deep neural networks using TensorFlow.
@@ -85,11 +85,11 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
-### 🌟 Featured Projects
+### Featured Projects
 
 </div>
 
@@ -97,7 +97,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <tr>
 <td width="50%">
 
-#### 🎯 Apta: Smart Lifestyle & Learning Recommender
+#### Apta: Smart Lifestyle & Learning Recommender
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/lrs)
 
 **Tech Stack:** Next.js, FastAPI, scikit-learn, TF-IDF, Zustand, Tailwind CSS, Python, Content-Based Filtering
@@ -108,7 +108,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 </td>
 <td width="50%">
 
-#### 🌱 Green Points: AI-Powered (Points + Price) Prediction
+#### Green Points: AI-Powered (Points + Price) Prediction
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/green-points)
 
 **Tech Stack:** React.js, Vite, Random Forest, FastAPI/Flask, MongoDB, Node.js, JWT, scikit-learn, Axios, RESTful APIs
@@ -121,7 +121,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <tr>
 <td width="50%">
 
-#### 💬 Conversational AI: Memory-Aware Document Q&A
+#### Conversational AI: Memory-Aware Document Q&A
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/conversation-ai-chatbot)
 
 **Tech Stack:** React.js, Vite, FastAPI, LangChain, FAISS, Gemini API, Docker, Tailwind CSS, Python, RAG Architecture
@@ -132,7 +132,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 </td>
 <td width="50%">
 
-#### 📄 Jobeez: AI-Powered Resume Parser & Job Matching
+#### Jobeez: AI-Powered Resume Parser & Job Matching
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
@@ -154,10 +154,10 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🚗 **V-Track** | Vehicle Tracking & Security System - Developed React/Flask vehicle tracker with Google Maps API, achieving 40% faster location updates. Integrated ESP32 hardware with Google Geolocation for 98% location accuracy. | React.js, Vite, Flask, Tailwind CSS, Google Maps API, Docker | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/vtrack) |
-| 🔍 **algoV** | Algorithm Visualizer - A full-stack AI system with a JavaScript frontend & Python backend to deliver real-time algorithmic processing. | JavaScript, Python, Full-Stack | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/algoV) |
-| 📊 **MAANGlytics** | MAANG Analytics Hub - AI-powered tech market trends & sentiment analysis using HuggingFace, improving rendering by 30%. | AI, HuggingFace, Analytics | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub) |
-| 💰 **CoinArth** | Finance Management Platform - Designed and deployed a full-stack finance management platform using scalable architecture. | Full-Stack, Scalable Architecture | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f) |
+| **V-Track** | Vehicle Tracking & Security System - Developed React/Flask vehicle tracker with Google Maps API, achieving 40% faster location updates. Integrated ESP32 hardware with Google Geolocation for 98% location accuracy. | React.js, Vite, Flask, Tailwind CSS, Google Maps API, Docker | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/vtrack) |
+| **algoV** | Algorithm Visualizer - A full-stack AI system with a JavaScript frontend & Python backend to deliver real-time algorithmic processing. | JavaScript, Python, Full-Stack | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/algoV) |
+| **MAANGlytics** | MAANG Analytics Hub - AI-powered tech market trends & sentiment analysis using HuggingFace, improving rendering by 30%. | AI, HuggingFace, Analytics | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/maang-analytics-hub) |
+| **CoinArth** | Finance Management Platform - Designed and deployed a full-stack finance management platform using scalable architecture. | Full-Stack, Scalable Architecture | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github)](https://github.com/MukundC25/coinarth-f) |
 
 </details>
 
@@ -168,7 +168,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 <div align="center">
 
-| 🏆 Platform | 📈 Rating | 🎯 Problems Solved | 🌟 Achievements |
+| Platform | Rating | Problems Solved | Achievements |
 |-------------|-----------|-------------------|-----------------|
 | **LeetCode** | 1668 (Top 15%) | 200+ | Active Problem Solver |
 | **CodeChef** | 1682 (3★) | 500+ | 🥈 Top 20 in START196 |
@@ -177,19 +177,19 @@ Also, I actively participate in hackathons, which have helped me improve my team
 </div>
 
 **Highlights:**
-- 🎯 **700+ programming problems** solved across multiple platforms
-- 🏆 **Top 20** in CodeChef's Contest START196
-- 💎 **Top 10** in Diamond League
-- 📈 Consistently improving ratings and problem-solving skills
+- **700+ programming problems** solved across multiple platforms
+- **Top 20** in CodeChef's Contest START196
+- **Top 10** in Diamond League
+- Consistently improving ratings and problem-solving skills
 
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 <div align="center">
 
-### 💻 Programming & Web Technologies
+### Programming & Web Technologies
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -205,7 +205,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -219,7 +219,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![NLP](https://img.shields.io/badge/NLP-%231572B6.svg?style=for-the-badge&logo=deepai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%23FF6F00.svg?style=for-the-badge&logo=data&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -228,7 +228,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -241,7 +241,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -251,7 +251,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## 📊 Activity Graph
+## Activity Graph
 
 <div align="center">
   
@@ -261,7 +261,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
