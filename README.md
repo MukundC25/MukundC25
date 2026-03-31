@@ -251,16 +251,6 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MukundC25&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
 ## Connect with Me
 
 <div align="center">
