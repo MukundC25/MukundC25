@@ -97,11 +97,11 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## Projects
+## Projects (Featured)
+<details>
+<summary>Click to expand and view more projects</summary>
 
 <div align="center">
-
-### Featured Projects
 
 </div>
 
@@ -156,9 +156,11 @@ Also, I actively participate in hackathons, which have helped me improve my team
 </tr>
 </table>
 
+</details>
+
 ---
 
-### 💡 More Projects
+### More Projects
 
 <details>
 <summary>Click to expand and view more projects</summary>
@@ -176,7 +178,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## 📊 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
