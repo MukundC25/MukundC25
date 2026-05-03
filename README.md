@@ -58,6 +58,18 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## Experience
 
 <details open>
+<summary><b>Google Summer of Code 2026</b> - Developer Contributor</summary>
+<br>
+  
+**Remote** | **May 2026 – Present**
+
+- Proposed an event-driven architecture using Django Signals, Celery, Redis, & Django Channels for real-time sync.
+- Planned MC role management system with APIs, admin panel integration, and email notification workflows.
+- Designing a speaker metadata pipeline to stream TalkSlot data into the Vue.js video interface using WebSockets.
+
+</details>
+
+<details open>
 <summary><b>SortUs</b> - Software Engineering Intern (AI/ML)</summary>
 <br>
   
@@ -97,48 +109,48 @@ Also, I actively participate in hackathons, which have helped me improve my team
 <tr>
 <td width="50%">
 
-#### Apta: Smart Lifestyle & Learning Recommender
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/lrs)
+#### EKIA: Code Debugging Intelligence Assistant (Agentic AI + Full Stack)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/EKIA-2)
 
-**Tech Stack:** Next.js, FastAPI, scikit-learn, TF-IDF, Zustand, Tailwind CSS, Python, Content-Based Filtering
+**Tech Stack:** Python, FastAPI, LangGraph, LangChain, Llama3/Ollama, FAISS, Neo4j, HuggingFace, Langfuse, Pydantic
 
-- Built TF-IDF vectorization + cosine similarity, achieving 85% recommendation accuracy across 150+ lifestyle items.
-- Implemented time/interest-based filtering, reducing irrelevant suggestions by 70% through scoring algorithms.
+- Built a 5-node LangGraph agent pipeline (parse → retrieve → reason → validate → respond) with hybrid retrieval by FAISS vector search & Neo4j GraphRAG, enabling context-aware error analysis across 25+ error patterns.
+- Integrated local Llama3 via Ollama with HuggingFace embeddings (all-MiniLM-L6-v2), Langfuse tracing & confidence scoring, and a React/Vite dashboard featuring interactive force-directed knowledge graph visualization.
 
 </td>
 <td width="50%">
 
-#### Green Points: AI-Powered (Points + Price) Prediction
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/green-points)
+#### Refine: AI-Powered Resume Optimizer & ATS Analyzer (Full Stack) 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/Refine)
 
-**Tech Stack:** React.js, Vite, Random Forest, FastAPI/Flask, MongoDB, Node.js, JWT, scikit-learn, Axios, RESTful APIs
+**Tech Stack:** Python, Tailwind CSS, FastAPI, TypeScript, Pydantic, Gemini 2.5, SQLAlchemy, PostgreSQL, JWT
 
-- Developed a Random Forest ML model for real-time, market-based valuation, achieving 85% accuracy in prediction.
-- Implemented REST APIs with JWT authentication and MongoDB integration for data integrity & user security
+- Built resume optimizer raising ATS scores by 45% via prompt-engineered analysis, semantic score, & JD alignment.
+- Implemented JWT + Argon2 auth with RBAC, live LaTeX preview, & user profiles via PostgreSQL/SQLAlchemy.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### Conversational AI: Memory-Aware Document Q&A
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/conversation-ai-chatbot)
+#### FinMate: Smart UPI-Based Expense & Budgeting Assistant (Android) 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/FinMate)
 
-**Tech Stack:** React.js, Vite, FastAPI, LangChain, FAISS, Gemini API, Docker, Tailwind CSS, Python, RAG Architecture
+**Tech Stack:** React Native (Expo), TypeScript, Regex, SQLite, Supabase, PostgreSQL, REST APIs, Google OAuth
 
-- Developed a RAG-based chatbot with FAISS for real-time document search and context-aware multi-mode Q&A.
-- Integrated LangChain memory and achieved 100% API test coverage for robust, persistent conversations.
+- Built an SMS-based UPI parser with 92%+ accuracy for extracting amount, merchant, and UPI ID.
+- Added SQLite-backed transaction & budget CRUD and Zustand state management with modular UI.
 
 </td>
 <td width="50%">
 
-#### Jobeez: AI-Powered Resume Parser & Job Matching
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/maang-analytics-hub)
+#### Apta: Smart Lifestyle & Learning Recommender (ML + Full Stack) 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MukundC25/lrs)
 
-**Tech Stack:** React.js, Vite, Tailwind CSS, FastAPI/Flask, MongoDB, NLP (spaCy, BERT), pypdf, Docker
+**Tech Stack:** Next.js, FastAPI, scikit-learn, TF-IDF, Zustand, Tailwind CSS, Python
 
-- Engineered a full-stack resume parsing with AI-powered job matching, improving job search by 85%.
-- Implemented advanced NLP techniques using spaCy & BERT for extracting skills with 92% accuracy
+- Built TF-IDF vectorization + cosine similarity, to get accurate recommendations over 150 lifestyle items.
+- Created time/interest-based filtering, reducing irrelevant suggestions by 70% through scoring algorithms.
 
 </td>
 </tr>
