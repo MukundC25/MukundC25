@@ -63,9 +63,9 @@ Also, I actively participate in hackathons, which have helped me improve my team
   
 **Remote** | **May 2026 – Present**
 
-- Proposed an event-driven architecture using Django Signals, Celery, Redis, & Django Channels for real-time sync.
-- Planned MC role management system with APIs, admin panel integration, and email notification workflows.
-- Designing a speaker metadata pipeline to stream TalkSlot data into the Vue.js video interface using WebSockets.
+- Developing a standalone Django plugin for native team and shift management, enabling end-to-end team recruitment, role assignment, and scheduling for large-scale open-source events.
+- Engineered seamless core platform integration using Django Signals and custom Middleware, dynamically injecting component panels, navigation menus, and access-controlled URL namespaces.
+- Designed a scalable, multi-tenant data architecture supporting custom team roles, shift capacities, and complex application workflows using PostgreSQL and Django ORM.
 
 </details>
 
