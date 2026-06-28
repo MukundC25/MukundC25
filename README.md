@@ -60,7 +60,7 @@ Also, I actively participate in hackathons, which have helped me improve my team
 ## Experience
 
 <details open>
-<summary><b>Google Summer of Code 2026</b> - Developer Contributor</summary>
+<summary><b>Google Summer of Code 2026</b> - Software Developer Contributor</summary>
 <br>
   
 **Remote** | **May 2026 – Present**
