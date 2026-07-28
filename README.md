@@ -33,30 +33,6 @@ Also, I actively participate in hackathons, which have helped me improve my team
 
 ---
 
-## Education
-
-<table>
-<tr>
-<td width="50%">
-
-### MIT Academy of Engineering, Pune
-**Savitribai Phule Pune University**
-- Bachelor of Technology in Electronics and Telecommunications
-- 2023–2027
-
-</td>
-<td width="50%">
-
-### Indian Institute of Technology, Ropar
-- Major In Artificial Intelligence
-- 2024–2025
-
-</td>
-</tr>
-</table>
-
----
-
 ## Experience
 
 <details open>
