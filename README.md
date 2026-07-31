@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Mukund Chavan, a Pre-Final Year B.Tech Student. I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack.
+I'm Mukund Chavan, a Final Year B.Tech Student. I have worked on various technologies such as Full-stack development, AI, machine learning, and data science. To gain practical experience, I have worked on multiple projects, where I worked on developing platforms backed by AI and the MERN Stack.
 
 Also, I actively participate in hackathons, which have helped me improve my teamwork and problem-solving skills. I solve problems on coding platforms like CodeChef, LeetCode & Codeforces.
 
