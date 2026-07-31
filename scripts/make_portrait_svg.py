@@ -1,157 +1,122 @@
 """
-make_portrait_svg.py — Generate a halftone dot-matrix portrait SVG.
+make_portrait_svg.py — Embed cartoon photo in SVG with vertical wipe reveal.
 
-Instead of ASCII characters, this uses circles of varying radii to
-represent brightness. Darker areas get larger dots, lighter areas
-get smaller dots (or no dot at all). This preserves facial features
-much better than character-based ASCII art.
-
-The result is an animated SVG where dots fade in with a radial sweep
-from the center outward.
+Clean top-to-bottom reveal with a scan line riding the edge.
+No particles, no gradients, no borders.
 
 Usage:
-    python scripts/make_portrait_svg.py [source-prepped.png] [output.svg]
+    python scripts/make_portrait_svg.py [photo.jpg] [output.svg]
 """
 
 import sys
-import math
+import base64
 from pathlib import Path
 
-import numpy as np
-from PIL import Image, ImageFilter
+from PIL import Image
+import io
 
 # --- Configuration ---
-GRID_COLS = 80       # number of dot columns
-GRID_ROWS = 90       # number of dot rows
-DOT_SPACING = 6.0    # pixels between dot centers
-MAX_RADIUS = 2.8     # max dot radius for darkest pixels
-MIN_RADIUS = 0.3     # min dot radius for lightest visible pixels
-BRIGHTNESS_CUTOFF = 0.85  # pixels brighter than this get no dot
-
-# SVG styling
-BG_COLOR = "#0d1117"
-DOT_COLOR = "#c9d1d9"
-
-# Animation
-ANIM_DURATION = 2.5  # total reveal time in seconds
+OUTPUT_W = 380
+OUTPUT_H = 340
+BORDER_RADIUS = 12
+REVEAL_DURATION = 2.5
 
 
-def image_to_dots(img_path: str) -> list[tuple[float, float, float]]:
-    """
-    Convert image to a list of (x, y, radius) dot positions.
-    Returns dots sorted by distance from center for the radial reveal.
-    """
-    img = Image.open(img_path).convert("L")
+def load_photo(img_path: str, width: int, height: int) -> str:
+    """Load photo, resize to fill, encode as base64."""
+    img = Image.open(img_path).convert("RGB")
 
-    # Apply slight gaussian blur to smooth out noise
-    img = img.filter(ImageFilter.GaussianBlur(radius=1))
+    img_ratio = img.width / img.height
+    target_ratio = width / height
 
-    # Resize to grid dimensions
-    img = img.resize((GRID_COLS, GRID_ROWS), Image.LANCZOS)
-    pixels = np.array(img, dtype=np.float64) / 255.0  # normalize to 0-1
+    if img_ratio > target_ratio:
+        new_h = height
+        new_w = int(height * img_ratio)
+    else:
+        new_w = width
+        new_h = int(width / img_ratio)
 
-    dots = []
-    cx = GRID_COLS / 2.0
-    cy = GRID_ROWS / 2.0
+    img = img.resize((new_w, new_h), Image.LANCZOS)
 
-    for row in range(GRID_ROWS):
-        for col in range(GRID_COLS):
-            brightness = pixels[row, col]
+    left = (new_w - width) // 2
+    top = (new_h - height) // 2
+    img = img.crop((left, top, left + width, top + height))
 
-            # Skip very bright pixels (background)
-            if brightness > BRIGHTNESS_CUTOFF:
-                continue
+    buf = io.BytesIO()
+    img.save(buf, format="PNG", optimize=True)
+    b64 = base64.b64encode(buf.getvalue()).decode("ascii")
 
-            # Map brightness to radius: dark=large dot, light=small dot
-            # Invert: 0 (black) -> MAX_RADIUS, BRIGHTNESS_CUTOFF (light) -> MIN_RADIUS
-            t = brightness / BRIGHTNESS_CUTOFF  # 0 to 1
-            radius = MAX_RADIUS * (1 - t) + MIN_RADIUS * t
-
-            if radius < MIN_RADIUS:
-                continue
-
-            x = col * DOT_SPACING + DOT_SPACING / 2
-            y = row * DOT_SPACING + DOT_SPACING / 2
-
-            # Distance from center (for animation ordering)
-            dist = math.sqrt((col - cx) ** 2 + (row - cy) ** 2)
-            dots.append((x, y, radius, dist))
-
-    # Sort by distance from center
-    dots.sort(key=lambda d: d[3])
-    return dots
+    return f"data:image/png;base64,{b64}"
 
 
-def build_svg(dots: list[tuple], output_path: str) -> None:
-    """Build SVG with radial fade-in animation."""
-    width = GRID_COLS * DOT_SPACING + DOT_SPACING
-    height = GRID_ROWS * DOT_SPACING + DOT_SPACING
-    padding = 16
-    total_width = width + padding * 2
-    total_height = height + padding * 2
-
-    max_dist = max(d[3] for d in dots) if dots else 1.0
+def build_svg(photo_data: str, output_path: str) -> None:
+    """Build SVG with vertical wipe reveal animation."""
+    w = OUTPUT_W
+    h = OUTPUT_H
 
     parts = []
     parts.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" '
-        f'viewBox="0 0 {total_width:.0f} {total_height:.0f}" '
-        f'width="{total_width:.0f}" height="{total_height:.0f}">\n'
+        f'xmlns:xlink="http://www.w3.org/1999/xlink" '
+        f'viewBox="0 0 {w} {h}" '
+        f'width="{w}" height="{h}">\n'
     )
 
-    # Background
+    parts.append("  <defs>\n")
     parts.append(
-        f'  <rect width="{total_width:.0f}" height="{total_height:.0f}" '
-        f'fill="{BG_COLOR}" rx="8" />\n'
-    )
-
-    # Animation style — use delay classes (bands) to reduce file size
-    NUM_BANDS = 40  # number of animation delay bands
-    band_duration = ANIM_DURATION / NUM_BANDS
-
-    parts.append("  <style>\n")
-    parts.append(
-        "    @keyframes dotFadeIn {\n"
-        "      from { opacity: 0; transform: scale(0); }\n"
-        "      to { opacity: 1; transform: scale(1); }\n"
-        "    }\n"
+        f'    <clipPath id="frame">\n'
+        f'      <rect width="{w}" height="{h}" rx="{BORDER_RADIUS}" />\n'
+        f'    </clipPath>\n'
     )
     parts.append(
-        "    .dot {\n"
-        "      opacity: 0;\n"
-        "      animation: dotFadeIn 0.2s ease-out forwards;\n"
-        "      transform-origin: center;\n"
-        "    }\n"
+        f'    <clipPath id="reveal">\n'
+        f'      <rect x="0" y="0" width="{w}" height="0">\n'
+        f'        <animate attributeName="height" '
+        f'from="0" to="{h}" '
+        f'dur="{REVEAL_DURATION}s" fill="freeze" />\n'
+        f'      </rect>\n'
+        f'    </clipPath>\n'
     )
-    for b in range(NUM_BANDS):
-        delay = b * band_duration
-        parts.append(f"    .d{b} {{ animation-delay: {delay:.2f}s; }}\n")
-    parts.append("  </style>\n")
+    parts.append("  </defs>\n")
 
-    # Draw dots with band-based animation delays
-    for i, (x, y, radius, dist) in enumerate(dots):
-        band = min(int((dist / max_dist) * NUM_BANDS), NUM_BANDS - 1)
-        px = x + padding
-        py = y + padding
+    parts.append(
+        f'  <rect width="{w}" height="{h}" rx="{BORDER_RADIUS}" fill="#0d1117" />\n'
+    )
 
-        parts.append(
-            f'  <circle class="dot d{band}" cx="{px:.1f}" cy="{py:.1f}" r="{radius:.2f}" '
-            f'fill="{DOT_COLOR}" />\n'
-        )
+    parts.append(f'  <g clip-path="url(#frame)">\n')
+    parts.append(f'    <g clip-path="url(#reveal)">\n')
+    parts.append(
+        f'      <image x="0" y="0" width="{w}" height="{h}" '
+        f'href="{photo_data}" />\n'
+    )
+    parts.append(f'    </g>\n')
 
+    # Scan line
+    parts.append(
+        f'    <rect x="0" y="0" width="{w}" height="2" fill="#58a6ff" opacity="0.7" rx="1">\n'
+        f'      <animate attributeName="y" '
+        f'from="0" to="{h}" '
+        f'dur="{REVEAL_DURATION}s" fill="freeze" />\n'
+        f'      <animate attributeName="opacity" '
+        f'values="0.7;0.7;0" keyTimes="0;0.85;1" '
+        f'dur="{REVEAL_DURATION}s" fill="freeze" />\n'
+        f'    </rect>\n'
+    )
+
+    parts.append("  </g>\n")
     parts.append("</svg>\n")
 
     Path(output_path).write_text("".join(parts), encoding="utf-8")
-    print(f"[make_portrait_svg] Written {output_path} ({len(dots)} dots, {GRID_COLS}x{GRID_ROWS} grid)")
+    print(f"[make_portrait_svg] Written {output_path} (wipe reveal, clean)")
 
 
 if __name__ == "__main__":
-    input_file = sys.argv[1] if len(sys.argv) > 1 else "source-prepped.png"
+    input_file = sys.argv[1] if len(sys.argv) > 1 else "img2.jpg"
     output_file = sys.argv[2] if len(sys.argv) > 2 else "mukund-ascii.svg"
 
     if not Path(input_file).exists():
-        print(f"Error: '{input_file}' not found. Run prep_photo.py first.")
+        print(f"Error: '{input_file}' not found.")
         sys.exit(1)
 
-    dots = image_to_dots(input_file)
-    build_svg(dots, output_file)
+    photo_data = load_photo(input_file, OUTPUT_W, OUTPUT_H)
+    build_svg(photo_data, output_file)
