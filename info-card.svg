@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 306" width="460" height="306">
+  <style>
+    @keyframes fadeSlideIn {
+      from { opacity: 0; transform: translateX(-8px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    .info-line {
+      opacity: 0;
+      animation: fadeSlideIn 0.4s ease forwards;
+    }
+    .line-0 { animation-delay: 0.00s; }
+    .line-1 { animation-delay: 0.15s; }
+    .line-2 { animation-delay: 0.30s; }
+    .line-3 { animation-delay: 0.45s; }
+    .line-4 { animation-delay: 0.60s; }
+    .line-5 { animation-delay: 0.75s; }
+    .line-6 { animation-delay: 0.90s; }
+    .line-7 { animation-delay: 1.05s; }
+    .line-8 { animation-delay: 1.20s; }
+    .line-9 { animation-delay: 1.35s; }
+    .line-10 { animation-delay: 1.50s; }
+  </style>
+  <rect x="0" y="0" width="460" height="306" rx="8" ry="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <g class="info-line line-0">
+    <text x="24" y="37" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#58a6ff">mukund<tspan fill="#c9d1d9">@</tspan>github</text>
+  </g>
+  <g class="info-line line-1">
+    <text x="24" y="59" font-family="'Courier New', monospace" font-size="13" fill="#484f58">────────────────────────</text>
+  </g>
+  <g class="info-line line-2">
+    <text x="24" y="81" font-family="'Courier New', monospace" font-size="13" fill="#f78166">●</text>
+    <text x="40" y="81" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">Now<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">GSoC'26 @ FOSSASIA · Django Plugin Dev</tspan></text>
+  </g>
+  <g class="info-line line-3">
+    <text x="24" y="103" font-family="'Courier New', monospace" font-size="13" fill="#d2a8ff">●</text>
+    <text x="40" y="103" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">Prev<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">SortUs · AI/ML Intern · FastAPI + RF</tspan></text>
+  </g>
+  <g class="info-line line-4">
+    <text x="24" y="125" font-family="'Courier New', monospace" font-size="13" fill="#7ee787">●</text>
+    <text x="40" y="125" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">Stack<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">Python · TypeScript · React · FastAPI</tspan></text>
+  </g>
+  <g class="info-line line-5">
+    <text x="24" y="147" font-family="'Courier New', monospace" font-size="13" fill="#79c0ff">●</text>
+    <text x="40" y="147" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">AI/ML<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">LangChain · RAG · Neo4j · Llama3</tspan></text>
+  </g>
+  <g class="info-line line-6">
+    <text x="24" y="169" font-family="'Courier New', monospace" font-size="13" fill="#ffa657">●</text>
+    <text x="40" y="169" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">DB<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">PostgreSQL · MongoDB · Redis · SQLite</tspan></text>
+  </g>
+  <g class="info-line line-7">
+    <text x="24" y="191" font-family="'Courier New', monospace" font-size="13" fill="#ff7b72">●</text>
+    <text x="40" y="191" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">Cloud<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">AWS · GCP · Docker · Vercel</tspan></text>
+  </g>
+  <g class="info-line line-8">
+    <text x="24" y="213" font-family="'Courier New', monospace" font-size="13" fill="#f78166">●</text>
+    <text x="40" y="213" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">Editor<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">Kiro / Cursor · Claude · Neovim</tspan></text>
+  </g>
+  <g class="info-line line-9">
+    <text x="24" y="235" font-family="'Courier New', monospace" font-size="13" fill="#d2a8ff">●</text>
+    <text x="40" y="235" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">CP<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">700+ solved · CodeChef 3★ · LC 1668</tspan></text>
+  </g>
+  <g class="info-line line-10">
+    <text x="24" y="257" font-family="'Courier New', monospace" font-size="13" fill="#7ee787">●</text>
+    <text x="40" y="257" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#79c0ff">Focus<tspan fill="#484f58"> ~ </tspan><tspan fill="#c9d1d9" font-weight="normal">Agentic AI · Full-Stack · Open Source</tspan></text>
+  </g>
+</svg>
