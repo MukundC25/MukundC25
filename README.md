@@ -32,18 +32,17 @@
 ---
 
 <h3><code>mukund@github ~ $ ls projects/</code></h3>
+<img src="./projects-card.svg" width="800" />
 
-</div>
+<sub>
+<a href="https://github.com/MukundC25/EKIA-2">EKIA</a> ·
+<a href="https://github.com/MukundC25/Refine">Refine</a> ·
+<a href="https://github.com/MukundC25/FinMate">FinMate</a> ·
+<a href="https://github.com/MukundC25/lrs">Apta</a> ·
+<a href="https://github.com/MukundC25/vtrack">V-Track</a>
+</sub>
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**EKIA**](https://github.com/MukundC25/EKIA-2) | Agentic AI code debugging assistant — 5-node LangGraph pipeline with FAISS + Neo4j GraphRAG | Python, FastAPI, LangGraph, Llama3, Neo4j |
-| [**Refine**](https://github.com/MukundC25/Refine) | AI resume optimizer raising ATS scores by 45% | FastAPI, TypeScript, Gemini 2.5, PostgreSQL |
-| [**FinMate**](https://github.com/MukundC25/FinMate) | SMS-based UPI expense tracker (92%+ parse accuracy) | React Native, TypeScript, SQLite, Supabase |
-| [**Apta**](https://github.com/MukundC25/lrs) | Smart lifestyle recommender — TF-IDF + cosine similarity | Next.js, FastAPI, scikit-learn |
-| [**V-Track**](https://github.com/MukundC25/vtrack) | Vehicle tracking & security with ESP32 + Google Geolocation | React, Flask, Google Maps API, Docker |
-
-<div align="center">
+<br>
 
 ---
 

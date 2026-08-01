@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 414" width="800" height="414">
+  <style>
+    @keyframes rowFadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .proj-row {
+      opacity: 0;
+      animation: rowFadeIn 0.4s ease forwards;
+    }
+    .pr-0 { animation-delay: 0.00s; }
+    .pr-1 { animation-delay: 0.18s; }
+    .pr-2 { animation-delay: 0.36s; }
+    .pr-3 { animation-delay: 0.54s; }
+    .pr-4 { animation-delay: 0.72s; }
+    .pr-5 { animation-delay: 0.90s; }
+  </style>
+  <rect x="0" y="0" width="800" height="414" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <g class="proj-row pr-0">
+    <rect x="0" y="0" width="800" height="40" rx="8" fill="#161b22" />
+    <rect x="0" y="32" width="800" height="8" fill="#161b22" />
+    <circle cx="20" cy="20.0" r="5" fill="#ff5f56" />
+    <circle cx="36" cy="20.0" r="5" fill="#ffbd2e" />
+    <circle cx="52" cy="20.0" r="5" fill="#27c93f" />
+    <text x="400.0" y="24.0" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" text-anchor="middle">mukund@github ~ $ <tspan fill="#c9d1d9">ls projects/</tspan></text>
+  </g>
+  <rect x="0" y="40" width="800" height="34" fill="#161b22" opacity="0.4" />
+  <text x="20" y="61.0" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#8b949e">Project</text>
+  <text x="120" y="61.0" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#8b949e">What it does</text>
+  <text x="480" y="61.0" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#8b949e">Stack</text>
+  <line x1="0" y1="74" x2="800" y2="74" stroke="#21262d" stroke-width="1" />
+  <g class="proj-row pr-1">
+    <text x="20" y="116.16666666666667" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#58a6ff" text-decoration="underline">EKIA</text>
+    <text x="120" y="100.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">Agentic AI code debugging assistant —</text>
+    <text x="120" y="116.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">5-node LangGraph pipeline with FAISS +</text>
+    <text x="120" y="132.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">Neo4j GraphRAG</text>
+    <text x="480" y="108.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">Python, FastAPI,</text>
+    <text x="480" y="124.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">LangGraph, Llama3, Neo4j</text>
+  </g>
+  <line x1="0" y1="150" x2="800" y2="150" stroke="#21262d" stroke-width="0.5" />
+  <rect x="0" y="150" width="800" height="60" fill="#11151c" />
+  <g class="proj-row pr-2">
+    <text x="20" y="184.16666666666666" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#d2a8ff" text-decoration="underline">Refine</text>
+    <text x="120" y="176.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">AI resume optimizer raising ATS scores by</text>
+    <text x="120" y="192.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">45%</text>
+    <text x="480" y="176.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">FastAPI, TypeScript,</text>
+    <text x="480" y="192.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">Gemini 2.5, PostgreSQL</text>
+  </g>
+  <line x1="0" y1="210" x2="800" y2="210" stroke="#21262d" stroke-width="0.5" />
+  <g class="proj-row pr-3">
+    <text x="20" y="252.16666666666666" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#7ee787" text-decoration="underline">FinMate</text>
+    <text x="120" y="244.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">SMS-based UPI expense tracker (92%+ parse</text>
+    <text x="120" y="260.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">accuracy)</text>
+    <text x="480" y="236.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">React Native,</text>
+    <text x="480" y="252.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">TypeScript, SQLite,</text>
+    <text x="480" y="268.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">Supabase</text>
+  </g>
+  <line x1="0" y1="286" x2="800" y2="286" stroke="#21262d" stroke-width="0.5" />
+  <rect x="0" y="286" width="800" height="60" fill="#11151c" />
+  <g class="proj-row pr-4">
+    <text x="20" y="320.1666666666667" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#f78166" text-decoration="underline">Apta</text>
+    <text x="120" y="312.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">Smart lifestyle recommender — TF-IDF +</text>
+    <text x="120" y="328.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">cosine similarity</text>
+    <text x="480" y="312.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">Next.js, FastAPI,</text>
+    <text x="480" y="328.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">scikit-learn</text>
+  </g>
+  <line x1="0" y1="346" x2="800" y2="346" stroke="#21262d" stroke-width="0.5" />
+  <g class="proj-row pr-5">
+    <text x="20" y="380.1666666666667" font-family="'Courier New', monospace" font-size="12.5" font-weight="bold" fill="#ffa657" text-decoration="underline">V-Track</text>
+    <text x="120" y="372.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">Vehicle tracking &amp; security with ESP32 +</text>
+    <text x="120" y="388.2" font-family="'Courier New', monospace" font-size="12.5" fill="#c9d1d9">Google Geolocation</text>
+    <text x="480" y="372.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">React, Flask, Google</text>
+    <text x="480" y="388.2" font-family="'Courier New', monospace" font-size="12.5" fill="#8b949e">Maps API, Docker</text>
+  </g>
+</svg>
