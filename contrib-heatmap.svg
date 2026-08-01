@@ -24,6 +24,7 @@
   <text x="621" y="22" class="label">May</text>
   <text x="696" y="22" class="label">Jun</text>
   <text x="756" y="22" class="label">Jul</text>
+  <text x="816" y="22" class="label">Aug</text>
   <text x="6" y="41" class="label">Mon</text>
   <text x="6" y="71" class="label">Wed</text>
   <text x="6" y="101" class="label">Fri</text>
@@ -397,7 +398,7 @@
   <rect class="day-box" x="816" y="75" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.371s;" />
   <rect class="day-box" x="816" y="90" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.414s;" />
   <rect class="day-box" x="816" y="105" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.457s;" />
-  <rect class="day-box" x="816" y="120" width="12" height="12" rx="2" ry="2" fill="#161b22" style="animation-delay: 2.500s;" />
+  <rect class="day-box" x="816" y="120" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.500s;" />
   <text x="36" y="164" class="label">Less</text>
   <rect x="68" y="155" width="12" height="12" rx="2" fill="#161b22" />
   <rect x="83" y="155" width="12" height="12" rx="2" fill="#0e4429" />
@@ -406,5 +407,5 @@
   <rect x="128" y="155" width="12" height="12" rx="2" fill="#39d353" />
   <rect x="143" y="155" width="12" height="12" rx="2" fill="#69f0a0" />
   <text x="162" y="164" class="label">More</text>
-  <text x="36" y="185" class="stats-text">420 contributions in the last year  ·  Current streak: 3 days  ·  Longest: 18 days</text>
+  <text x="36" y="185" class="stats-text">422 contributions in the last year  ·  Current streak: 4 days  ·  Longest: 18 days</text>
 </svg>
