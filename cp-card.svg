@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 294" width="560" height="294">
+  <style>
+    @keyframes fadeSlideIn {
+      from { opacity: 0; transform: translateX(-8px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    .cp-line {
+      opacity: 0;
+      animation: fadeSlideIn 0.4s ease forwards;
+    }
+    .cl-0 { animation-delay: 0.00s; }
+    .cl-1 { animation-delay: 0.15s; }
+    .cl-2 { animation-delay: 0.30s; }
+    .cl-3 { animation-delay: 0.45s; }
+    .cl-4 { animation-delay: 0.60s; }
+    .cl-5 { animation-delay: 0.75s; }
+    .cl-6 { animation-delay: 0.90s; }
+    .cl-7 { animation-delay: 1.05s; }
+    .cl-8 { animation-delay: 1.20s; }
+  </style>
+  <rect x="0" y="0" width="560" height="294" rx="8" ry="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <g class="cp-line cl-0">
+    <text x="24" y="35" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#58a6ff">&gt; <tspan fill="#c9d1d9">neofetch --competitive</tspan></text>
+  </g>
+  <g class="cp-line cl-1">
+    <text x="24" y="68.6" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#8b949e">Platform</text>
+    <text x="174" y="68.6" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#8b949e">Rating</text>
+    <text x="364" y="68.6" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#8b949e">Solved</text>
+  </g>
+  <line x1="24" y1="78.6" x2="536" y2="78.6" stroke="#21262d" stroke-width="1" />
+  <g class="cp-line cl-2">
+    <circle cx="28" cy="98.6" r="4" fill="#FFA116" />
+    <text x="38" y="102.6" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#FFA116">LeetCode</text>
+    <text x="174" y="102.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">1668  (Top 15%)</text>
+    <text x="364" y="102.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">200+</text>
+  </g>
+  <g class="cp-line cl-3">
+    <circle cx="28" cy="122.6" r="4" fill="#5B4638" />
+    <text x="38" y="126.6" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#5B4638">CodeChef</text>
+    <text x="174" y="126.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">1682  (3★)</text>
+    <text x="364" y="126.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">500+</text>
+  </g>
+  <g class="cp-line cl-4">
+    <circle cx="28" cy="146.6" r="4" fill="#1F8ACB" />
+    <text x="38" y="150.6" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1F8ACB">Codeforces</text>
+    <text x="174" y="150.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">1202  (Pupil)</text>
+    <text x="364" y="150.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">—</text>
+  </g>
+  <line x1="24" y1="178.6" x2="536" y2="178.6" stroke="#21262d" stroke-width="1" />
+  <g class="cp-line cl-5">
+    <text x="24" y="202.6" font-family="'Courier New', monospace" font-size="13" fill="#f78166">✦</text>
+    <text x="40" y="202.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">700+ problems solved across platforms</text>
+  </g>
+  <g class="cp-line cl-6">
+    <text x="24" y="226.6" font-family="'Courier New', monospace" font-size="13" fill="#d2a8ff">✦</text>
+    <text x="40" y="226.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">Top 20 in CodeChef START196</text>
+  </g>
+  <g class="cp-line cl-7">
+    <text x="24" y="250.6" font-family="'Courier New', monospace" font-size="13" fill="#7ee787">✦</text>
+    <text x="40" y="250.6" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">Top 10 in Diamond League</text>
+  </g>
+</svg>

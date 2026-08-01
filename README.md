@@ -47,22 +47,10 @@
 
 ---
 
-<h3><code>mukund@github ~ $ neofetch --competitive</code></h3>
+<h3><code>mukund@github ~ $ ./competitive.sh</code></h3>
+<img src="./cp-card.svg" width="560" />
 
-</div>
-
-```
-╭───────────────────────────────────────────╮
-│  Platform    │  Rating        │  Solved   │
-├───────────────────────────────────────────┤
-│  LeetCode    │  1668 (Top 15%)│  200+     │
-│  CodeChef    │  1682 (3★)     │  500+     │
-│  Codeforces  │  1202 (Pupil)  │  —        │
-╰───────────────────────────────────────────╯
-   700+ problems solved · Top 20 in START196 · Top 10 Diamond League
-```
-
-<div align="center">
+<br>
 
 ---
 
