@@ -393,7 +393,7 @@
   <rect class="day-box" x="801" y="120" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.457s;" />
   <rect class="day-box" x="816" y="30" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.241s;" />
   <rect class="day-box" x="816" y="45" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.284s;" />
-  <rect class="day-box" x="816" y="60" width="12" height="12" rx="2" ry="2" fill="#161b22" style="animation-delay: 2.328s;" />
+  <rect class="day-box" x="816" y="60" width="12" height="12" rx="2" ry="2" fill="#0e4429" style="animation-delay: 2.328s;" />
   <rect class="day-box" x="816" y="75" width="12" height="12" rx="2" ry="2" fill="#161b22" style="animation-delay: 2.371s;" />
   <rect class="day-box" x="816" y="90" width="12" height="12" rx="2" ry="2" fill="#161b22" style="animation-delay: 2.414s;" />
   <rect class="day-box" x="816" y="105" width="12" height="12" rx="2" ry="2" fill="#161b22" style="animation-delay: 2.457s;" />
@@ -406,5 +406,5 @@
   <rect x="128" y="155" width="12" height="12" rx="2" fill="#39d353" />
   <rect x="143" y="155" width="12" height="12" rx="2" fill="#69f0a0" />
   <text x="162" y="164" class="label">More</text>
-  <text x="36" y="185" class="stats-text">424 contributions in the last year  ·  Current streak: 13 days  ·  Longest: 18 days</text>
+  <text x="36" y="185" class="stats-text">426 contributions in the last year  ·  Current streak: 14 days  ·  Longest: 18 days</text>
 </svg>
