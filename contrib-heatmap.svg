@@ -24,6 +24,7 @@
   <text x="621" y="22" class="label">Jun</text>
   <text x="681" y="22" class="label">Jul</text>
   <text x="741" y="22" class="label">Aug</text>
+  <text x="816" y="22" class="label">Sep</text>
   <text x="6" y="41" class="label">Mon</text>
   <text x="6" y="71" class="label">Wed</text>
   <text x="6" y="101" class="label">Fri</text>
